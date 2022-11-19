@@ -1,0 +1,28 @@
+/*DEVELOPER: Anusree Iyer, IS117-001, FA2022 */
+h1{
+    color:indianred;
+    text-align:center;
+}
+
+body{
+    background-color:aliceblue;
+}
+
+header img{
+    width:50px;
+}
+
+main img{
+    float:right;
+}
+aside img{
+    float:left;
+}
+body p{
+    float:left;
+    padding-left:100px;
+    color:indianred;
+
+
+
+}

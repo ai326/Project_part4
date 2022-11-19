@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+    color:indianred;
+}
+
+main img{
+    padding-top:50px;
+    padding-left:40px;
+    float:left;
+}
+
+body{
+    background-color: lightblue;
+}
+
+
+aside p{
+    float:right;
+    padding-right: 600px;
+    padding-top:100px;
+}
